@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+output/IMDB_Dataset.csv
+output/*.joblib
+*.ipynb_checkpoints/
+.env
